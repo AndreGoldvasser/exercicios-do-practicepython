@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7577523f-d284-4724-848a-51e6f6e4831d" name="Default" comment="" />
+    <list default="true" id="7577523f-d284-4724-848a-51e6f6e4831d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/12 List Ends/list_ends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +17,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="list_ends.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12 List Ends/list_ends.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +45,9 @@
       <replace>p2['nome'] + &quot;</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -37,11 +57,14 @@
         <option value="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" />
         <option value="$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py" />
         <option value="$PROJECT_DIR$/04 Divisors/divisors.py" />
-        <option value="$PROJECT_DIR$/05 List Overlap/list_overlap.py" />
         <option value="$PROJECT_DIR$/06 String Lists/string_lists.py" />
         <option value="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" />
         <option value="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" />
+        <option value="$PROJECT_DIR$/05 List Overlap/list_overlap.py" />
+        <option value="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" />
+        <option value="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" />
+        <option value="$PROJECT_DIR$/12 List Ends/list_ends.py" />
       </list>
     </option>
   </component>
@@ -56,64 +79,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="01 Character Input" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="02 Odd Or Even" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="03 List- Less Than Ten" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="04 Divisors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="05 List Overlap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
-              <item name="06 String Lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
-              <item name="07 List Comprehensions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
               <item name="08 Rock Paper Scissors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
-              <item name="09 Guessing Game One" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
+              <item name="10 List Overlap Comprehensions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
+              <item name="11 Check Primality Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
+              <item name="12 List Ends" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -132,8 +159,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guessing_game_one">
-    <configuration name="guessing_game_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.list_ends">
+    <configuration name="character_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,17 +168,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 Guessing Game One" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01 Character Input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 Character Input/character_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="check_primality_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +186,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07 List Comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 Check Primality Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="list_ends" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12 List Ends" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12 List Ends/list_ends.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +232,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="rock_paper_scissors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list_overlap_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,48 +240,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08 Rock Paper Scissors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 List Overlap Comprehensions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="string_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 String Lists" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 String Lists/string_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.character_input" />
+      <item itemvalue="Python.list_overlap_comprehensions" />
       <item itemvalue="Python.list_overlap" />
-      <item itemvalue="Python.string_lists" />
-      <item itemvalue="Python.list_comprehensions" />
-      <item itemvalue="Python.rock_paper_scissors" />
-      <item itemvalue="Python.guessing_game_one" />
+      <item itemvalue="Python.check_primality_functions" />
+      <item itemvalue="Python.list_ends" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.guessing_game_one" />
-        <item itemvalue="Python.rock_paper_scissors" />
-        <item itemvalue="Python.list_comprehensions" />
-        <item itemvalue="Python.string_lists" />
+        <item itemvalue="Python.list_ends" />
+        <item itemvalue="Python.check_primality_functions" />
+        <item itemvalue="Python.list_overlap_comprehensions" />
         <item itemvalue="Python.list_overlap" />
+        <item itemvalue="Python.character_input" />
       </list>
     </recent_temporary>
   </component>
@@ -254,14 +281,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18282989" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29765546" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34070796" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32952926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29646018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -300,6 +328,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Character Input/character_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
@@ -322,48 +399,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Character Input/character_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06 String Lists/string_lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 List Overlap/list_overlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -381,10 +423,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 List Overlap/list_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 Character Input/character_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 Divisors/divisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="98" selection-start-line="18" selection-start-column="98" selection-end-line="18" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 List Ends/list_ends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
