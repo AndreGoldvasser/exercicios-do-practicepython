@@ -13,7 +13,10 @@ def is_even(num,divisor=2):
     return False
 
 num = int(input("Digite um número: "))
-print("Par") if is_even(num) else print("Ímpar")
+if num % 4 == 0:
+    print("Divisor de 4(multiple of 4, print out a different message).")
+else:
+    print("Par") if is_even(num) else print("Ímpar")
 divisor = int(input("Digite um divisor para o número anterior: "))
 print("É divisível") if is_even(num,divisor) else print("Não é divisível")
 

@@ -11,5 +11,5 @@ def first_last_list(lista):
         return [lista[0], lista[-1]]
 
 lista = random.sample(range(1,100), random.randrange(1,20))
-print(lista)
-print(first_last_list(lista))
+print("A lista gerada: ",lista)
+print("\nPrimeiro e último item: ",first_last_list(lista))
