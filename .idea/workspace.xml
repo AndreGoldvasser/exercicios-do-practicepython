@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7577523f-d284-4724-848a-51e6f6e4831d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 Character Input/character_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 Character Input/character_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 Divisors/divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 Divisors/divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 List Overlap/list_overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 List Overlap/list_overlap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 String Lists/string_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 String Lists/string_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 List Ends/list_ends.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 List Ends/list_ends.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Fibonacci/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Fibonacci/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 Password Generator/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 Password Generator/password_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py" beforeDir="false" afterPath="$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20 Element Search/element_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 Element Search/element_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21 Write To A File/write_to_a_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/21 Write To A File/write_to_a_file.py" afterDir="false" />
-    </list>
+    <list default="true" id="7577523f-d284-4724-848a-51e6f6e4831d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -262,15 +239,15 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.372814" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.372814" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023847" side_tool="true" weight="0.2979351" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34070796" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32890856" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" visible="true" weight="0.2979351" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" weight="0.2979351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890856" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890856" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
