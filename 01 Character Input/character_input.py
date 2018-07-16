@@ -8,6 +8,7 @@
 # Simplificar o formatamento nos prints
 from datetime import datetime
 
+
 def calcula_aos_100(nome, idade):
     ano_atual = int(datetime.today().strftime("%Y"))
     quantas_mensagens = 5
@@ -19,8 +20,7 @@ def calcula_aos_100(nome, idade):
         else:
             print("Você está velho demais para executar esse programa.")
 
+
 nome = input("Digite seu nome: ")
 idade = int(input("Quantos anos você tem?"))
 calcula_aos_100(nome, idade)
-
-

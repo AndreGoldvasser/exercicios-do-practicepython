@@ -9,11 +9,8 @@ def gera_fibonacci(numeros_sequencia=7):
         if x == 1 or x == 2:
             lista_fibonacci.append(1)
         else:
-            lista_fibonacci.append(lista_fibonacci[-1]+lista_fibonacci[-2])
+            lista_fibonacci.append(lista_fibonacci[-1] + lista_fibonacci[-2])
     return lista_fibonacci
 
+
 print((gera_fibonacci(int(input("Quantos números para a sequência Fibonacci: \n")))))
-
-
-
-

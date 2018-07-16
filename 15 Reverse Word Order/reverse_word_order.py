@@ -12,4 +12,5 @@
 def reverte_ordem_string(string_frase="Ola Mundo"):
     print(" ".join(string_frase.split()[::-1]))
 
+
 reverte_ordem_string(str(input("Escreva uma frase para inverter sua ordem.")))

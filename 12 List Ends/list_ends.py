@@ -2,6 +2,7 @@
 # first and last elements of the given list. For practice, write this code inside a function.
 import random
 
+
 def first_last_list(lista):
     if len(lista) == 0:
         return []
@@ -10,6 +11,7 @@ def first_last_list(lista):
     else:
         return [lista[0], lista[-1]]
 
-lista = random.sample(range(1,100), random.randrange(1,20))
-print("A lista gerada: ",lista)
-print("\nPrimeiro e último item: ",first_last_list(lista))
+
+lista = random.sample(range(1, 100), random.randrange(1, 20))
+print("A lista gerada: ", lista)
+print("\nPrimeiro e último item: ", first_last_list(lista))

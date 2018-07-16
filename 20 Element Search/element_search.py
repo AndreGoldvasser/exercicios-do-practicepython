@@ -7,22 +7,28 @@
 #     Use binary search.
 import random
 
-# def binary_search_list(lista,numero_usuario):
-#     meio_da_lista = int(len(lista)/2)
-#     if numero_usuario == lista[meio_da_lista]:
-#         return True
-#     elif numero_usuario < lista[meio_da_lista]:
-#         binary_search_list(lista[:int(len(lista)/2)],numero_usuario)
-#     else:
-#         binary_search_list(lista[int(len(lista)/2):],numero_usuario)
-def binary_search
 
-def search_list(lista,numero_usuario):
+def busca_binaria_lista(lista, numero_usuario):
+    primeiro = 0
+    ultimo = len(lista) - 1
+    encontrado = False
+
+    while primeiro <= ultimo and not encontrado:
+        meio = (primeiro + ultimo) // 2
+        if lista[meio] == numero_usuario:
+            encontrado = True
+        else:
+            if numero_usuario < lista[meio]:
+                ultimo = meio - 1
+            else:
+                primeiro = meio + 1
+    return encontrado
+
+
+def busca_in_lista(lista, numero_usuario):
     return True if numero_usuario in lista else False
 
 
-
 a = [1, 3, 5, 30, 42, 43, 500]
-# print(int(len(a)/2))
 
-print(binary_search_list(a,500))
+print(busca_binaria_lista(a, 555))

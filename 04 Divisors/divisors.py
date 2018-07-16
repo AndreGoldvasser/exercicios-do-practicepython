@@ -8,7 +8,7 @@ lista_divisores = []
 
 numero = int(input("Digite um número: "))
 
-for x in range(1,numero):
+for x in range(1, numero):
     if numero % x == 0:
         lista_divisores.append(x)
 

@@ -12,12 +12,7 @@
 #     Randomly generate two lists to test this
 import random
 
-lista_a = random.sample(range(100),random.randint(8,19))
-lista_b = random.sample(range(100),random.randint(8,19))
+lista_a = random.sample(range(100), random.randint(8, 19))
+lista_b = random.sample(range(100), random.randint(8, 19))
 
 print(set(lista_a).intersection(lista_b))
-
-
-
-
-

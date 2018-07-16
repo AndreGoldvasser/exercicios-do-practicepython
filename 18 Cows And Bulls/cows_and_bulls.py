@@ -19,22 +19,22 @@
 # Until the user guesses the number.
 import random
 
-def calcula_score(adivinhado,gerado):
-        cow = 0
-        bull = 0
-        for digito in range(len(adivinhado)):
-            if adivinhado[digito] == gerado[digito]:
-                cow  += 1
-            else:
-                bull += 1
-        print(cow,"vaca" if cow == 1 else "vacas", bull, "touro" if bull == 1 else "touros")
 
+def calcula_score(adivinhado, gerado):
+    cow = 0
+    bull = 0
+    for digito in range(len(adivinhado)):
+        if adivinhado[digito] == gerado[digito]:
+            cow += 1
+        else:
+            bull += 1
+    print(cow, "vaca" if cow == 1 else "vacas", bull, "touro" if bull == 1 else "touros")
 
 
 def input_adivinhado():
-    numero_adivinhado =''
+    numero_adivinhado = ''
     try:
-        while numero_adivinhado not in range(1000,9999):
+        while numero_adivinhado not in range(1000, 9999):
             numero_adivinhado = int(input("Digite um número entre 1000 e 9999: "))
     except ValueError:
         print("Digite um **NÚMERO** entre 1000 e 9999.")
@@ -43,12 +43,12 @@ def input_adivinhado():
 
 
 def cows_and_bulls():
-    numero_gerado = str(random.randrange(1000,9999))
+    numero_gerado = str(random.randrange(1000, 9999))
     print(numero_gerado)
     numero_adivinhado = ''
     while numero_gerado != numero_adivinhado:
         numero_adivinhado = input_adivinhado()
-        calcula_score(numero_adivinhado,numero_gerado)
+        calcula_score(numero_adivinhado, numero_gerado)
 
 
 cows_and_bulls()

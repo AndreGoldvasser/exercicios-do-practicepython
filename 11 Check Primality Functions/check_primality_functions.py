@@ -8,7 +8,7 @@ def is_prime(number):
         prime = True
     else:
         prime = True
-        for check_number in range(2, int((number / 2)+1)):
+        for check_number in range(2, int((number / 2) + 1)):
             if number % check_number == 0:
                 prime = False
                 break
@@ -16,4 +16,4 @@ def is_prime(number):
 
 
 number = int(input("Digite um número:\n"))
-print(number, "é um número primo") if is_prime(number) else print(number,"não é um número primo.")
+print(number, "é um número primo") if is_prime(number) else print(number, "não é um número primo.")

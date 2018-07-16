@@ -13,9 +13,8 @@
 
 import random
 
-
-a = random.sample(range(100),random.randint(8,19))
-b = random.sample(range(100),random.randint(7,19))
+a = random.sample(range(100), random.randint(8, 19))
+b = random.sample(range(100), random.randint(7, 19))
 c = [numero for numero in a if numero in b]
 # for item in a and b:
 #     if item in a and b or c:

@@ -3,7 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7577523f-d284-4724-848a-51e6f6e4831d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Character Input/character_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 Character Input/character_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Divisors/divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 Divisors/divisors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 List Overlap/list_overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 List Overlap/list_overlap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 String Lists/string_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 String Lists/string_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 List Comprehensions/list_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 Rock Paper Scissors/rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 Guessing Game One/guessing_game_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 Check Primality Functions/check_primality_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12 List Ends/list_ends.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 List Ends/list_ends.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13 Fibonacci/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Fibonacci/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py" afterDir="false" />
@@ -13,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py" beforeDir="false" afterPath="$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/20 Element Search/element_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 Element Search/element_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21 Write To A File/write_to_a_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/21 Write To A File/write_to_a_file.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,26 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="element_search.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20 Element Search/element_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="odd_or_even.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,11 +75,12 @@
         <option value="$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py" />
         <option value="$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py" />
         <option value="$PROJECT_DIR$/16 Password Generator/password_generator.py" />
-        <option value="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" />
         <option value="$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py" />
         <option value="$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py" />
-        <option value="$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py" />
         <option value="$PROJECT_DIR$/20 Element Search/element_search.py" />
+        <option value="$PROJECT_DIR$/01 Character Input/character_input.py" />
+        <option value="$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py" />
+        <option value="$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py" />
       </list>
     </option>
   </component>
@@ -109,21 +102,6 @@
             <path>
               <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
-              <item name="02 Odd Or Even" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
-              <item name="19 Decode A Web Page Two" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios-do-practicepython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios-do-practicepython" type="462c0819:PsiDirectoryNode" />
-              <item name="20 Element Search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.element_search">
+  <component name="RunManager" selected="Python.odd_or_even">
     <configuration name="cows_and_bulls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,10 +230,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.element_search" />
-        <item itemvalue="Python.decode_a_web_page" />
         <item itemvalue="Python.odd_or_even" />
+        <item itemvalue="Python.decode_a_web_page" />
         <item itemvalue="Python.cows_and_bulls" />
+        <item itemvalue="Python.element_search" />
         <item itemvalue="Python.password_generator" />
       </list>
     </recent_temporary>
@@ -284,14 +262,15 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.372814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.372814" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023847" side_tool="true" weight="0.2979351" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34070796" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32890856" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" weight="0.2979351" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" visible="true" weight="0.2979351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890856" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,7 +279,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,6 +308,65 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mais exercícios feitos" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/13 Fibonacci/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="13" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" selection-end-line="15" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16 Password Generator/password_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" selection-end-line="16" />
+          <folding>
+            <element signature="e#135#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20 Element Search/element_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="26" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -497,20 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 Character Input/character_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10 List Overlap Comprehensions/list_overlap_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -560,20 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16 Password Generator/password_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="69" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14 List Remove Duplicates/list_remove_duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -581,39 +590,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01 Character Input/character_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20 Element Search/element_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21 Write To A File/write_to_a_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/18 Cows And Bulls/cows_and_bulls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7" />
+        <state relative-caret-position="288">
+          <caret line="53" column="16" selection-end-line="54" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/19 Decode A Web Page Two/decode_a_web_page_two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="88" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="88" />
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17 Decode A Web Page/decode_a_web_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#135#150#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py">
+    <entry file="file://$PROJECT_DIR$/16 Password Generator/password_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#329#343#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20 Element Search/element_search.py">
+    <entry file="file://$PROJECT_DIR$/15 Reverse Word Order/reverse_word_order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="198">
+          <caret line="11" column="29" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Odd Or Even/odd_or_even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 List- Less Than Ten/list_less_than_ten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>

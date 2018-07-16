@@ -3,10 +3,14 @@
 # on the New York Times homepage.
 import requests
 from bs4 import BeautifulSoup
-url = 'https://www.vanityfair.com/style/society/2014/06/monica-lewinsky-humiliation-culture'
-requisicao = requests.get(url)
-pagina_bs = BeautifulSoup(requisicao.text,'html.parser')
 
-for titulos in pagina_bs.find_all("p"):
-    print(" ".join(titulos.text.split()))
 
+def pega_paragrafos_html(url):
+    requisicao = requests.get(url)
+    pagina_bs = BeautifulSoup(requisicao.text, 'html.parser')
+    for titulos in pagina_bs.find_all("h2", class_="story-heading"):
+        print(" ".join(titulos.text.split()))
+
+
+if __name__ == '__main__':
+    pega_paragrafos_html('http://www.nytimes.com/')
