@@ -6,9 +6,14 @@ import string
 import time
 
 
+def main():
+    print(f'A senha gerada: {gera_senha()}')
+    print(f'Tempo de execução: {time.process_time()}s')
+
+
 def gera_senha():
     return str(''.join(secrets.choice(string.ascii_letters + string.digits + string.punctuation) for x in range(15)))
 
 
-print(gera_senha())
-print("Tempo de execução:", time.process_time(), "s")
+if __name__ == '__main__':
+    main()

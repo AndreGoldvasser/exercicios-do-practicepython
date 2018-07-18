@@ -7,9 +7,17 @@
 #
 #     Ask the user to specify the name of the output file that will be saved.
 
-import requests
 import codecs
+
+import requests
 from bs4 import BeautifulSoup
+
+
+def main():
+    try:
+        salva_texto(pega_paragrafos_html('http://www.nytimes.com/'))
+    except requests.exceptions.ConnectionError:
+        print("Sem conexão.")
 
 
 def pega_paragrafos_html(url):
@@ -27,6 +35,5 @@ def salva_texto(string):
         open_file.write(string)
 
 
-salva_texto(pega_paragrafos_html('http://www.nytimes.com/'))
-
-pega_paragrafos_html('http://www.nytimes.com/')
+if __name__ == '__main__':
+    main()

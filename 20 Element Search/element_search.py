@@ -5,7 +5,9 @@
 # Extras:
 #
 #     Use binary search.
-import random
+def main():
+    a = [1, 3, 5, 30, 42, 43, 500]
+    print(busca_binaria_lista(a, 555))
 
 
 def busca_binaria_lista(lista, numero_usuario):
@@ -22,6 +24,7 @@ def busca_binaria_lista(lista, numero_usuario):
                 ultimo = meio - 1
             else:
                 primeiro = meio + 1
+
     return encontrado
 
 
@@ -29,6 +32,5 @@ def busca_in_lista(lista, numero_usuario):
     return True if numero_usuario in lista else False
 
 
-a = [1, 3, 5, 30, 42, 43, 500]
-
-print(busca_binaria_lista(a, 555))
+if __name__ == '__main__':
+    main()

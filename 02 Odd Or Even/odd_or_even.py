@@ -12,7 +12,7 @@ def is_even(num, divisor=2):
             return True
         return False
     except ZeroDivisionError:
-        print("DIVISÃO POR ZERO. AÍ NÃO NÉ PARSSA. ERROR.")
+        print("Erro: Divisão por zero.")
 
 
 num = int(input("Digite um número: "))

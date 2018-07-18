@@ -7,20 +7,26 @@
 #     Keep track of how many guesses the user has taken, and when the game ends, print this out.
 import random
 
-guesses_total = 0
-guess = 0
-while guess != 'exit':
-    random_number = random.randint(1, 9)
-    while int(guess) > 0 and int(guess) <= 9 or guess != 'exit':
-        guess = str(input("Adivinhe um número entre 1 e 9, ou digite exit para sair do programa.\n"))
-        if guess == 'exit':
-            break
-        elif int(guess) < random_number:
-            print("Valor abaixo.")
-        elif int(guess) == random_number:
-            print("Na mosca.")
-            random_number = random.randint(1, 9)
-        elif int(guess) > random_number:
-            print("Valor acima.")
-        guesses_total += 1
-    print("Número de tentativas: " + str(guesses_total))
+
+def main():
+    guesses_total = 0
+    guess = 0
+    while guess != 'exit':
+        random_number = random.randint(1, 9)
+        while int(guess) > 0 and int(guess) <= 9 or guess != 'exit':
+            guess = str(input("Adivinhe um número entre 1 e 9, ou digite exit para sair do programa.\n"))
+            if guess == 'exit':
+                break
+            elif int(guess) < random_number:
+                print("Valor abaixo.")
+            elif int(guess) == random_number:
+                print("Na mosca.")
+                random_number = random.randint(1, 9)
+            elif int(guess) > random_number:
+                print("Valor acima.")
+            guesses_total += 1
+        print("Número de tentativas: " + str(guesses_total))
+
+
+if __name__ == '__main__':
+    main()
